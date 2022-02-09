@@ -1,0 +1,2 @@
+# End-of-studies-project-BTS-
+The website is a sustainable and effective means of disseminating information concerning a school, in particular: The students, The teachers, The streams, classes, events, etc. It is also a communication tool or a showcase site for the school, allowing it to revitalize and strengthen its image.  This is how we had the opportunity to deepen our knowledge Theoretical and practical through the design and creation of a web application for Chichaoua Technical High School, which manages students, classes, teachers, as well as announcements.
